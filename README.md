@@ -24,12 +24,24 @@ $ cd ~
 $ git clone https://github.com/Windy34/Kismon_rusificated.git
 
 ```
-3. Заменяем содержимое папки ~/kismon/kismon файлами репозитория Kismon_rusificated.git
+3. Заменяем содержимое папки ~/kismon/kismon файлами репозитория Kismon_rusificated.git и собираем проект
 
 ```
 $ cp Kismon_rusificated/* /kismon/kismon
+$ cd kismon
+$ python3 setup.py build
+$ sudo python3 setup.py install
 
 ```
+## Если Kismon уже установлен:
+Необходимо скачать данный репозиторий и заменить содержимое /kismon/kismon скачанными файлами,
+не забыть заного собрать проект. 
+```
+$ python3 setup.py build
+$ sudo python3 setup.py install
+
+```
+
 ## Ссылки 
 * Официальный сайт:  https://www.salecker.org/software/kismon.html
 * Репозиторий исходного кода:  https://github.com/Kismon/kismon
