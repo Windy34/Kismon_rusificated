@@ -28,3 +28,6 @@ $ git clone https://github.com/Windy34/Kismon_rusificated.git
 $ cp Kismon_rusificated/* /kismon/kismon
 
 ```
+## Ссылки 
+* Официальный сайт:  https://www.salecker.org/software/kismon.html
+* Репозиторий исходного кода:  https://github.com/Kismon/kismon
