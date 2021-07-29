@@ -1,5 +1,4 @@
 # Kismon на русском!
-Official link https://github.com/Kismon/kismon
 
 Данный проект является русифицированной версией <a href="https://github.com/Kismon/kismon">Kismon</a>
 ![kism](https://user-images.githubusercontent.com/61827585/127535525-6ac7d41d-a568-4092-a40d-c48180100fa2.png)
